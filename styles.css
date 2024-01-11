@@ -8,15 +8,15 @@
 
 /* Body styles */
 body {
-    font-family: Arial, sans-serif;
-    background-color: #f2f5e9; /* Light green background */
-    color: #333;
+    font-family: MetricHPE, sans-serif;
+    background-color: #d31fe7; /* Hot Pink background */
+    color: #26149b;
 }
 
 /* Header styles */
 header {
-    background-color: #5e8745; /* Dark green header background */
-    color: #fff;
+    background-color: #28baca; /* Hot pink header background */
+    color: #e324c6;
     padding: 20px;
     width: 100%;
     text-align: center;
@@ -26,6 +26,12 @@ header h1 {
     font-size: 2.5rem;
     margin-bottom: 10px;
 }
+img {
+display:block;
+margin-left:auto;
+margin-right:auto;
+}
+
 
 p {
     font-size: 1.2rem;
